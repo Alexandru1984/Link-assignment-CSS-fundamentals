@@ -1,0 +1,164 @@
+* {
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  font-variant: unset;
+  font-weight: unset;
+ 
+}
+
+body	{
+
+  background-color: #FFF8DC;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+
+  display: block;
+    
+}
+
+header {
+
+  position: absolute;
+  top: 0%;
+  left: 2px;
+  right: 2px;
+  bottom: 90%;
+  
+  height: 70px;
+
+  margin: 0%;
+  padding: 0%;
+
+  background-color: #28c6eed7;
+
+}
+
+.logo img {
+
+  float: left;
+  margin: 10px;
+     
+  width: 50px;
+  height: 50px;
+
+  border-radius: 30px;
+   
+}
+
+#name {
+
+  float: left;
+  margin: 10px
+  
+}
+
+
+b {
+  
+  padding: 0px;
+  margin-right: 260px;
+  font-size: 20px;   
+}
+
+i {
+
+  font-size: small;
+
+  margin-left: 260px;
+  
+}
+
+ul li {
+
+  list-style-type: none;
+  margin-left: 0px;
+  padding: 0%;
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+
+a {
+
+  text-decoration: none;
+  padding: 0%;
+  
+}
+
+aside {
+
+  position: absolute;
+  left: 0px;
+  top: 90px;
+
+  height: 80%;
+  width: 150px;
+
+  background-color: #29160585;
+
+  border-style: outset;
+  border-width: 3px;
+
+  margin: 10px;
+  padding: 0%;
+
+  font-size: 16px;
+
+}
+
+section {
+
+  position: absolute;
+  top: 90px;
+
+  left: 180px;
+
+  width: 1340px;
+
+  margin-top: 10px;
+  padding: 0px;
+  
+  border-width: 3px;
+  border-style: outset;
+  
+}
+
+#title {
+
+  float: none;
+
+  margin: 0px;
+  padding: 0px;
+  
+
+  font-size: medium;
+  text-align: center;
+  font-weight: bold;
+}
+
+#title hr {
+
+  height: 1px;
+
+}
+
+#photo {
+
+  float: left;
+  margin: 3px;
+  padding: 3px;
+  
+}
+
+.info{
+
+  padding: 3px;
+  margin-bottom: 0px;
+  float: right;
+  
+  width: 1080px;
+   
+}

@@ -1,0 +1,244 @@
+* {
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  font-variant: unset;
+  font-weight: unset;
+ 
+}
+
+body	{
+
+  background-color: #FFF8DC;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+
+  display: block;
+    
+}
+
+/*Aici este editat logoul paginii*/
+
+header {
+
+  position: absolute;
+  top: 0%;
+  left: 2px;
+  right: 2px;
+  bottom: 90%;
+  
+  height: 70px;
+
+  margin: 0%;
+  padding: 0%;
+
+  border: 1px solid;
+
+}
+
+.logo img {
+
+  float: left;
+  margin: 10px;
+     
+  width: 50px;
+  height: 50px;
+
+  border-radius: 30px;
+   
+}
+
+#name {
+
+  float: left;
+  margin: 10px
+  
+}
+
+
+b {
+  
+  padding: 0px;
+  margin-right: 260px;
+  font-size: 20px;   
+}
+
+i {
+
+  font-size: small;
+
+  margin-left: 260px;
+  
+}
+
+/*Aici se termina editarea logoul-ui paginii*/
+
+
+
+
+
+aside {
+
+  position: absolute;
+  left: 0px;
+  top: 90px;
+
+  height: 1632px;
+  width: 150px;
+
+  background-color: #29160585;
+
+  border-style: outset;
+  border-width: 3px;
+
+  margin: 10px;
+  padding: 0%;
+
+}
+
+
+/*Aici se editeaza lista si lik-urile din bara de navigare*/
+aside ul li {
+
+  list-style-type: none;
+  margin-left: 0px;
+  padding: 0%;
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+  text-decoration: none;
+  padding: 0%;
+
+
+}
+
+a {
+
+  text-decoration: none;
+  padding: 0%;
+  
+}
+/*Aici se termina editarea listei si link-urilor din bara de navigare*/
+
+
+section {
+
+  position: absolute;
+  top: 90px;
+
+  left: 180px;
+
+  width: 1320px;
+
+  margin-top: 10px;
+  padding: 0px;
+
+}
+
+.head h1 {
+  
+  float: none;
+
+  margin: 0px auto;
+  padding: 5px auto;
+ 
+  width: 1290px;
+  height: 50px;
+
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+
+#definition {
+
+  float: none;
+
+  margin: 0px auto;
+  padding: 0px auto;
+
+  text-align: center;
+  font-style: oblique;
+
+  width: 1290px;
+  height: 50px;
+
+  border: outset;
+  border-radius: 5px;
+
+  background-color: burlywood;
+
+}
+
+.info {
+
+  float: none;
+
+  margin: 10px auto;
+  padding: 5px auto;
+
+  width: 1290px;
+
+  border-top: outset;
+  border-left: outset;
+  border-right: outset;
+  border-width: 3px;
+
+  line-height: 30px;
+  
+
+}
+
+h2 {
+
+  margin: 10px auto;
+  padding: 10px auto;
+ 
+ 
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+abbr {
+
+  text-decoration: none;
+  font-family: monospace;
+  font-size: large;
+
+}
+
+/*Aici este editata lista din josul paginii*/
+
+#licomp {
+
+  float: none;
+
+  margin: 10px;
+  padding: 5px;
+
+  width: 1285px;
+
+  border: outset;
+
+  
+
+}
+
+#licomp li{
+
+  margin: 5px;
+  padding: 10px;
+
+  list-style: outside;
+  border: outset;
+
+  width: 540px;
+  
+}
+
